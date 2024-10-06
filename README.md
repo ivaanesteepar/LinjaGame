@@ -9,10 +9,21 @@ Linja es un juego de mesa diseñado por Steffen Mülhäuser, autor de otros exit
 Los jugadores deben avanzar sus fichas para cruzar las ramas de bambú y llegar a la última fila, superando las fichas del oponente. La partida termina cuando las fichas de un jugador sobrepasan las del otro.
 
 ## Cómo Jugar
-- **Preparación**: Colocar las ramas de bambú en la mesa y distribuir las piezas.
-- **Turnos**: Cada jugador realiza dos acciones por turno:
-- **Mover un peón**: Avanzar una ficha y calcular cuántas se encuentran en la fila que acaba de pisar.
-- **Avanzar con un peón**: Usar los puntos de movimiento obtenidos para mover otra ficha.
+1. Preparación: Colocar las ramas de bambú en la mesa y distribuir las piezas.
+
+2. Turnos: Cada jugador realiza dos acciones por turno:
+
+  - Mover un peón:
+
+    - El jugador activo avanza una de sus fichas hacia la siguiente fila. Puede mover cualquiera de sus peones, pero no puede ocupar una fila que ya tenga seis fichas (independientemente       de su color).
+    - Al ingresar a una fila, el jugador cuenta cuántas fichas hay en esa fila (sin contar la que acaba de mover). Este número determina los puntos de movimiento para la siguiente acción.
+    - Si un jugador avanza a una fila vacía, su turno termina inmediatamente, y no obtiene puntos de movimiento.
+
+  - Avanzar con un peón:
+
+    - Con los puntos de movimiento obtenidos, el jugador elige cualquier ficha de su propiedad para moverla tantas filas como puntos haya obtenido.
+    - El jugador no puede terminar su movimiento en una fila con seis fichas, pero sí puede sobrepasarla.
+    - Si llega a la séptima fila (donde están las fichas iniciales del oponente), el movimiento se detiene ahí, sin contar puntos adicionales.
   
 Los jugadores deben ser estratégicos, evitando caer en filas vacías y maximizando su avance mientras bloquean a su oponente.
 
