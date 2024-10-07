@@ -1,5 +1,5 @@
 # Linja
-Linja es un juego de mesa diseñado por Steffen Mülhäuser, autor de otros exitosos juegos como Karo y SIX. Exclusivo para dos jugadores, tiene una duración de solo 15 minutos y es apto para mayores de 8 años, gracias a sus reglas sencillas y accesibles.
+Linja es un juego de mesa diseñado por Steffen Mülhäuser, autor de otros exitosos juegos como Karo y SIX. Exclusivo para dos jugadores, es apto para mayores de 8 años, gracias a sus reglas sencillas y accesibles.
 
 Este proyecto implementa inteligencia artificial, la cual mueve automaticamente las fichas negras buscando la mejor jugada para la máquina.
 ## Interfaz
