@@ -35,5 +35,3 @@ Los jugadores deben ser estratégicos, evitando caer en filas vacías y maximiza
 ## Características Destacadas
 - **Diseño Elegante**: Combina componentes de calidad con un diseño atractivo y compacto, ideal para jugar en cualquier mesa.
 - **Estrategia y Simplicidad**: Aunque las reglas son simples, el juego ofrece un buen nivel de estrategia, perfecto para iniciarse en el género de juegos abstractos.
-  
-Linja es un juego que combina elegancia y diversión en partidas rápidas, convirtiéndolo en una excelente adición a cualquier colección de juegos de mesa.
