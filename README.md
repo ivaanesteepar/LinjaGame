@@ -30,5 +30,5 @@ Players must advance their pieces to cross the bamboo branches and reach the las
 Players must be strategic, avoiding falling into empty rows and maximising their advance while blocking their opponent.
 
 ## Key Features
-- Stylish Design**: Combines quality components with an attractive, compact design, ideal for play on any table.
-- Strategy and Simplicity**: Although the rules are simple, the game offers a good level of strategy, perfect for getting started in the abstract game genre.
+- **Stylish Design**: Combines quality components with an attractive, compact design, ideal for play on any table.
+- **Strategy and Simplicity**: Although the rules are simple, the game offers a good level of strategy, perfect for getting started in the abstract game genre.
