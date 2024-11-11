@@ -1,37 +1,37 @@
-# Linja
-Linja es un juego de mesa diseñado por Steffen Mülhäuser, autor de otros exitosos juegos como Karo y SIX. Exclusivo para dos jugadores, es apto para mayores de 8 años, gracias a sus reglas sencillas y accesibles.
+# LINJA GAME
+Linja is a board game designed by Steffen Mülhäuser, author of other successful games such as Karo and SIX. Exclusively for two players, it is suitable for ages 8 and up, thanks to its simple and accessible rules.
 
-Este proyecto implementa inteligencia artificial, la cual mueve automaticamente las fichas negras buscando la mejor jugada para la máquina.
-## Interfaz
-<img src="https://github.com/user-attachments/assets/051c4edd-6208-430a-a5c4-337ef0ec7614" width="150">
+This project implements artificial intelligence, which automatically moves the black pieces to find the best move for the machine.
+## Interface
+<img src=‘https://github.com/user-attachments/assets/051c4edd-6208-430a-a5c4-337ef0ec7614’ width=‘150’>
 
 
-## Contenido de la Caja
-- 7 ramas de bambú que delimitan las líneas de juego.
-- 24 piezas de madera (12 por jugador en negro y rojo).
+## Box contents
+- 7 bamboo branches that delimit the game lines.
+- 24 wooden pieces (12 per player in black and red).
   
-## Objetivo del Juego
-Los jugadores deben avanzar sus fichas para cruzar las ramas de bambú y llegar a la última fila, superando las fichas del oponente. La partida termina cuando las fichas de un jugador sobrepasan las del otro.
+## Objective of the game
+Players must advance their pieces to cross the bamboo branches and reach the last row, overcoming the opponent's pieces. The game ends when one player's checkers surpass those of the other player.
 
-## Cómo Jugar
-1. **Preparación**: Colocar las ramas de bambú en la mesa y distribuir las piezas.
+## How to Play
+1. Set up **Preparation**: Place the bamboo branches on the table and distribute the pieces.
 
-2. **Turnos**: Cada jugador realiza dos acciones por turno:
+2. **Turns**: Each player takes two actions per turn:
 
-  - Mover un peón:
+  - Move a pawn:
 
-    - El jugador activo avanza una de sus fichas hacia la siguiente fila. Puede mover cualquiera de sus peones, pero no puede ocupar una fila que ya tenga seis fichas (independientemente       de su color).
-    - Al ingresar a una fila, el jugador cuenta cuántas fichas hay en esa fila (sin contar la que acaba de mover). Este número determina los puntos de movimiento para la siguiente acción.
-    - Si un jugador avanza a una fila vacía, su turno termina inmediatamente, y no obtiene puntos de movimiento.
+    - The active player advances one of his pieces to the next row. He may move any of his pawns, but may not occupy a row that already contains six pieces (regardless of colour).
+    - On entering a row, the player counts how many pieces are in that row (not counting the one he has just moved). This number determines the movement points for the next action.
+    - If a player advances to an empty row, his turn ends immediately, and he does not get any points for the next action.
 
-  - Avanzar con un peón:
+  - Advance with a pawn:
 
-    - Con los puntos de movimiento obtenidos, el jugador elige cualquier ficha de su propiedad para moverla tantas filas como puntos haya obtenido.
-    - El jugador no puede terminar su movimiento en una fila con seis fichas, pero sí puede sobrepasarla.
-    - Si llega a la séptima fila (donde están las fichas iniciales del oponente), el movimiento se detiene ahí, sin contar puntos adicionales.
+    - With the movement points obtained, the player chooses any piece of his own to move it as many rows as he has obtained points.
+    - The player cannot end his move on a row with six pieces, but he can move beyond it.
+    - If he reaches the seventh row (where the opponent's initial pieces are), the move stops there, without counting additional points.
   
-Los jugadores deben ser estratégicos, evitando caer en filas vacías y maximizando su avance mientras bloquean a su oponente.
+Players must be strategic, avoiding falling into empty rows and maximising their advance while blocking their opponent.
 
-## Características Destacadas
-- **Diseño Elegante**: Combina componentes de calidad con un diseño atractivo y compacto, ideal para jugar en cualquier mesa.
-- **Estrategia y Simplicidad**: Aunque las reglas son simples, el juego ofrece un buen nivel de estrategia, perfecto para iniciarse en el género de juegos abstractos.
+## Key Features
+- Stylish Design**: Combines quality components with an attractive, compact design, ideal for play on any table.
+- Strategy and Simplicity**: Although the rules are simple, the game offers a good level of strategy, perfect for getting started in the abstract game genre.
