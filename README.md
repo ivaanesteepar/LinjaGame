@@ -1,4 +1,4 @@
-# LINJA GAME
+# 🔴⚫ LINJA GAME
 Linja is a board game designed by Steffen Mülhäuser, author of other successful games such as Karo and SIX. Exclusively for two players, it is suitable for ages 8 and up, thanks to its simple and accessible rules.
 
 This project implements artificial intelligence, which automatically moves the black pieces to find the best move for the machine.
