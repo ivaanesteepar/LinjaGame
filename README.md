@@ -3,14 +3,14 @@ Linja is a board game designed by Steffen Mülhäuser, author of other successfu
 
 This project implements artificial intelligence, which automatically moves the black pieces to find the best move for the machine.
 
-## Box contents
+## 📦 Box contents
 - 7 bamboo branches that delimit the game lines.
 - 24 wooden pieces (12 per player in black and red).
   
-## Objective of the game
+## 🎯 Objective of the game
 Players must advance their pieces to cross the bamboo branches and reach the last row, overcoming the opponent's pieces. The game ends when one player's checkers surpass those of the other player.
 
-## How to Play
+## ▶️ How to Play
 1. Set up **Preparation**: Place the bamboo branches on the table and distribute the pieces.
 
 2. **Turns**: Each player takes two actions per turn:
@@ -29,6 +29,6 @@ Players must advance their pieces to cross the bamboo branches and reach the las
   
 Players must be strategic, avoiding falling into empty rows and maximising their advance while blocking their opponent.
 
-## Key Features
+## ✨ Key Features
 - **Stylish Design**: Combines quality components with an attractive, compact design, ideal for play on any table.
 - **Strategy and Simplicity**: Although the rules are simple, the game offers a good level of strategy, perfect for getting started in the abstract game genre.
