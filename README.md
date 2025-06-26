@@ -10,7 +10,7 @@ This project implements artificial intelligence, which automatically moves the b
 ## 🎯 Objective of the game
 Players must advance their pieces to cross the bamboo branches and reach the last row, overcoming the opponent's pieces. The game ends when one player's checkers surpass those of the other player.
 
-## ▶️ How to Play
+## 🎮 How to Play
 1. Set up **Preparation**: Place the bamboo branches on the table and distribute the pieces.
 
 2. **Turns**: Each player takes two actions per turn:
